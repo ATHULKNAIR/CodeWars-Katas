@@ -29,5 +29,4 @@ function maskify(cc) {
     }
     return masked;
 }
-
 console.log(maskify('Nananananananananananananananana Batman!'))
